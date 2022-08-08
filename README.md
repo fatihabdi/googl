@@ -7,5 +7,5 @@
 Search Engine karya anak bangsa tapi pake API google
 
 Setup:
-
-- run `npm i && npm start` to start the development server
+- fork repo nya terus di clone
+- ketik `npm i && npm start` buat start development server
